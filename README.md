@@ -2,14 +2,19 @@
 Hello!!
 
 Introduction to AlgoSort-
+
 AlgoSort is a Java-based interactive tool that visualizes various sorting algorithms like Bubble Sort, Selection Sort, Merge Sort, and others work in real-time. AlgoSort givess an intuitive graphical view to observe and understand sorting processes step-by-step of different Sorting Algorithums!!
 
 Features-
-Interactive Animations: Watch sorting algorithms come to life with engaging visualizations.
-Sorting Algorithms: Choose from a variety of algorithms including Bubble Sort, Selection Sort, Insertion Sort and Merge Sort.
-Real-Time Visualization: Experience sorting algorithms in action, with each step animated on the graphical display.
-Adjustable Speed: Control the speed of the animations to suit your learning pace.
-Adjustable Size: You can take multiple number for sorting.
+1.)Interactive Animations: Watch sorting algorithms come to life with engaging visualizations.
+
+2.)Sorting Algorithms: Choose from a variety of algorithms including Bubble Sort, Selection Sort, Insertion Sort and Merge Sort.
+
+3.)Real-Time Visualization: Experience sorting algorithms in action, with each step animated on the graphical display.
+
+4.)Adjustable Speed: Control the speed of the animations to suit your learning pace.
+
+5.)Adjustable Size: You can take multiple number for sorting.
 
 Link for AlgoSort-
 https://github.com/snehalk5/AlgoSort.git
