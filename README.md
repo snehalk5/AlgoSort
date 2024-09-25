@@ -20,12 +20,9 @@ Array Before Sorting:
 ![SeleBefore](https://github.com/user-attachments/assets/2ad6f99e-3c46-4940-b23c-c6dca435c2e3)
 
 During Sorting Process-
-![SeleBefore](https://github.com/user-attachments/assets/e5c8edeb-4443-4c9f-adcc-038d19d6a5d1)
 ![Durin](https://github.com/user-attachments/assets/c70d1786-597c-4929-929f-5f8bac03ae25)
 
 After Sorting-
-![Durin](https://github.com/user-attachments/assets/c0984ae2-06ae-40a8-85ff-f1442208691b)
-![SeleBefore](https://github.com/user-attachments/assets/f331e693-5942-4739-a733-4e6e799c7c70)
 ![Screenshot (136)](https://github.com/user-attachments/assets/12dac7b1-260f-4c26-a30c-4ba364a88f0b)
 
 
